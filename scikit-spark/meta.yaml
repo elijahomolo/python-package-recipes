@@ -1,0 +1,18 @@
+package:
+  name: scikit-spark
+  version: 0.1.0
+
+build:
+  number: 1
+
+requirements:
+  build:
+    - python
+    - pip
+    - wheel >=0.26
+
+  run:
+    - python
+
+about:
+  home: https://github.com/scikit-spark/scikit-spark
